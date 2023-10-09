@@ -134,6 +134,17 @@ header {
     text-align: center;
     margin-top: 25px;
   }
+
+  .social-media-icons {
+    font-size: 23px;
+    text-align: left;
+    margin-left: -350px;
+  }
+
+  .social-media-icons a {
+    text-decoration: none;
+    color: black;
+  }
   /* end about style section */
 
   /* style tafseer section */
@@ -429,5 +440,11 @@ header {
 
   #about .col-2 p {
     margin-left: 20px;
+  }
+
+  .social-media-icons {
+    font-size: 23px;
+    text-align: left;
+    margin-left: 25px;
   }
 }
